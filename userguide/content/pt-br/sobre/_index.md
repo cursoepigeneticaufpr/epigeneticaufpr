@@ -214,7 +214,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Foto_Bruna.jpg" alt="Foto de Perfil de Foto_Bruna" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Foto_Bruna.jpeg" alt="Foto de Perfil de Foto_Bruna" width="310"/></td>
 </tr>
 </tbody>
 </table>
