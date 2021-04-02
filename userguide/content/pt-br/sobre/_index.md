@@ -139,23 +139,33 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Gabriela Canalli Kretzschmar</b> Pesquisadora pós-doc no Laboratório de Genética Molecular Humana <a href="http://www.lgmh.ufpr.br/index.html">(LGMH)</a> na Universidade Federal do Paraná <a href="https://www.ufpr.br/portalufpr/">(UFPR)</a>.
 <p><p>
-<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+<p style="text-align: left">Atua nas principais linhas de pesquisa:</p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Genética de doenças humanas complexas​</li>
+<li style="text-align: left">Epigenética​</li>
+<li style="text-align: left">Neurogenética</li>
+<li style="text-align: left">Genética de populações</li>
 </ul>
 
 <strong>Formação</strong>
 <p>
 <ul>
-<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
-<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Graduação em Ciências Biológicas (Bacharelado e Licenciatura) - Universidade Positivo (2008);</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2016);</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR) (2020);</li>
 </ul>
+<p>
+
+<strong>Pós-doutorado</strong>
+<ul>
+<li>Pós-Doutorado na Universidade Federal do Paraná</li>
+</ul>
+
 </td>
+
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Gabriela.jpeg" alt="Foto de Perfil de Gabriela" width="310"/></td>
 </tr>
 </tbody>
