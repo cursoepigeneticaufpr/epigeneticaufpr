@@ -7,7 +7,7 @@ menu:
 layout: docs
 ---
 
-{{% blocks/cover title="Como o curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética pode te ajudar?" height="auto" color="black" %}}
+{{% blocks/cover title="Como o curso de Epigenética pode te ajudar?" height="auto" color="black" %}}
 
 {{% /blocks/cover %}}
 
@@ -91,12 +91,12 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <table>
 <tbody>
 <tr>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/chirlei_glienke.jpg" alt="Foto de perfil de Chirlei Glienke" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Foto_Angelica_Boldt.jpg" alt="Foto de perfil de Angelica Winter Beate Boldt" width="310"/></td>
 <td>
 
 &nbsp;
 
-<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
+<b>Angelica Boldt</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde XXX. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>. Angelica Beate Winter Boldt é bolsista produtividade de pesquisa 2 e professora adjunta de Genética da Universidade Federal do Paraná (UFPR) desde 2013, casada há 25 anos e mãe de três filhos maravilhosos!, é licenciada em Ciências Biológicas (1994) e mestre em Genética (2000) pela UFPR, doutora em Genética Humana pela Universidade de Tuebingen, Alemanha (2006). Foi pesquisadora post-doc no Laboratório de Imunopatologia Molecular/ HC-UFPR de 2007 ao início de 2013. Tem maior experiência em Imunogenética (genes do sistema complemento) e Genética epidemiológica de doencas complexas (infecciosas, autoimunes, neurológicas, câncer) em populações isoladas. Por meio de análises genômicas e epidemiológicas, pretende identificar variantes genéticas e epigenéticas/comportamentais moduladoras de predisposição a estas doenças, de modo a orientar a trazer prevenção a famílias e comunidades afetadas.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
@@ -156,7 +156,65 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
 </ul>
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/desirre.jpg" alt="Foto de Perfil de Desirrê Petters-Vandresen" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Gabriela.jpeg" alt="Foto de Perfil de Gabriela" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<p><p>
+<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+
+<ul>
+<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+</ul>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
+<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+</ul>
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Valeria_Bumiller.jpg" alt="Foto de Perfil de Valeria_Bumiller" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<p><p>
+<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+
+<ul>
+<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
+<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+</ul>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
+<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+</ul>
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Foto_Bruna.jpeg" alt="Foto de Perfil de Foto_Bruna" width="310"/></td>
 </tr>
 </tbody>
 </table>
