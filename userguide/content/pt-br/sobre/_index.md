@@ -125,9 +125,8 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 </ul>
 <p>
 
-strong><a href="http://lattes.cnpq.br/7835465907444864"> Currículo Lattes</a></strong>
+<strong><a href="http://lattes.cnpq.br/7835465907444864"> Currículo Lattes</a></strong>
 <ul>
-<li></li>
 </ul>
 <p>
 
@@ -172,9 +171,8 @@ strong><a href="http://lattes.cnpq.br/7835465907444864"> Currículo Lattes</a></
 </ul>
 <p>
 
-strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></strong>
+<strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></strong>
 <ul>
-<li></li>
 </ul>
 <p>
 
@@ -203,10 +201,16 @@ strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></
 <strong>Formação</strong>
 <p>
 <ul>
-<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
+<li>Graduação em Ciências Biológicas (Bacharelado e Licenciatura) - Universidade Federal do Paraná (UFPR) (2016);</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Instituto de Dermatologia da Universidade de Lübeck (Alemanha)</li>
 </ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/8758579940031871"> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
 </td>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Valeria_Bumiller.jpg" alt="Foto de Perfil de Valeria_Bumiller" width="310"/></td>
 </tr>
@@ -220,7 +224,7 @@ strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Bruna Carla Hendges</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Cursou licenciatura em música na Escola de Música e Belas Artes do Paraná (UNESPAR), atuou como violinista em orquestras em Santa Catarina e Paraná, além de desenvolver pesquisa na área de métodos ativos de aprendizagem
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
@@ -232,10 +236,16 @@ strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></
 <strong>Formação</strong>
 <p>
 <ul>
-<li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
-<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Graduação em Música (Licenciatura) - UNESPAR (20__);</li>
+<li>Acadêmica de Medicina - Universidade Federal do Paraná (UFPR);</li>
 </ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/6685533834845433 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
 </td>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Foto_Bruna.jpeg" alt="Foto de Perfil de Foto_Bruna" width="310"/></td>
 </tr>
