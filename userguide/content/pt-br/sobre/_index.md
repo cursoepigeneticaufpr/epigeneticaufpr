@@ -96,9 +96,9 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 &nbsp;
 
-<b>Angelica Boldt</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde XXX. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>. Angelica Beate Winter Boldt é bolsista produtividade de pesquisa 2 e professora adjunta de Genética da Universidade Federal do Paraná (UFPR) desde 2013, casada há 25 anos e mãe de três filhos maravilhosos!, é licenciada em Ciências Biológicas (1994) e mestre em Genética (2000) pela UFPR, doutora em Genética Humana pela Universidade de Tuebingen, Alemanha (2006). Foi pesquisadora post-doc no Laboratório de Imunopatologia Molecular/ HC-UFPR de 2007 ao início de 2013. Tem maior experiência em Imunogenética (genes do sistema complemento) e Genética epidemiológica de doencas complexas (infecciosas, autoimunes, neurológicas, câncer) em populações isoladas. Por meio de análises genômicas e epidemiológicas, pretende identificar variantes genéticas e epigenéticas/comportamentais moduladoras de predisposição a estas doenças, de modo a orientar a trazer prevenção a famílias e comunidades afetadas.
+<b>Profa. Dra. Angelica Boldt</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde XXX. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>. Angelica Beate Winter Boldt é bolsista produtividade de pesquisa 2 e professora adjunta de Genética da Universidade Federal do Paraná (UFPR) desde 2013, casada há 25 anos e mãe de três filhos maravilhosos!, é licenciada em Ciências Biológicas (1994) e mestre em Genética (2000) pela UFPR, doutora em Genética Humana pela Universidade de Tuebingen, Alemanha (2006). Foi pesquisadora post-doc no Laboratório de Imunopatologia Molecular/ HC-UFPR de 2007 ao início de 2013. Tem maior experiência em Imunogenética (genes do sistema complemento) e Genética epidemiológica de doencas complexas (infecciosas, autoimunes, neurológicas, câncer) em populações isoladas. Por meio de análises genômicas e epidemiológicas, pretende identificar variantes genéticas e epigenéticas/comportamentais moduladoras de predisposição a estas doenças, de modo a orientar a trazer prevenção a famílias e comunidades afetadas.
 <p><p>
-<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+<p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
 <li style="text-align: left">Filogenia e Taxonomia Molecular</li>
@@ -123,6 +123,13 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
 <li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
 </ul>
+<p>
+
+strong><a href="http://lattes.cnpq.br/7835465907444864"> Currículo Lattes</a></strong>
+<ul>
+<li></li>
+</ul>
+<p>
 
 </td>
 </tr>
@@ -139,9 +146,9 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Gabriela Canalli Kretzschmar</b> Pesquisadora pós-doc no Laboratório de Genética Molecular Humana <a href="http://www.lgmh.ufpr.br/index.html">(LGMH)</a> na Universidade Federal do Paraná <a href="https://www.ufpr.br/portalufpr/">(UFPR)</a>.
+<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
 <p><p>
-<p style="text-align: left">Atua nas principais linhas de pesquisa:</p>
+<p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
 <li style="text-align: left">Genética de doenças humanas complexas​</li>
@@ -161,8 +168,15 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <strong>Pós-doutorado</strong>
 <ul>
-<li>Pós-Doutorado na Universidade Federal do Paraná</li>
+<li>Pós-Doutorado em Genética na Universidade Federal do Paraná</li>
 </ul>
+<p>
+
+strong><a href="http://lattes.cnpq.br/8862939895732544"> Currículo Lattes</a></strong>
+<ul>
+<li></li>
+</ul>
+<p>
 
 </td>
 
@@ -178,13 +192,12 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Ms. Valéria Bumiller Bini</b> é doutoranda do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
 <p><p>
-<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+<p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Investigação das vias de morte celular no pênfigo foliáceo</li>
 </ul>
 
 <strong>Formação</strong>
@@ -209,7 +222,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
 <p><p>
-<p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
+<p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
 <li style="text-align: left">Filogenia e Taxonomia Molecular</li>
