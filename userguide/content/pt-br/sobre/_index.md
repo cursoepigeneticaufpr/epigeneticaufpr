@@ -144,7 +144,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR). Atualmente trabalha com genética e epigenética de doenças complexas tais como neurológicas, autoimunes e infecciosas.</a>.
+<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Atualmente trabalha com genética e epigenética de doenças complexas tais como neurológicas, autoimunes e infecciosas.
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
@@ -261,7 +261,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <p><p>
 O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Genética Molecular Humana, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
-Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa [equipe](http://www.lgmh.ufpr.br/equipe.html#), [linhas de pesquisa]http://www.lgmh.ufpr.br/pesquisa.html, [produção acadêmica] (http://www.lgmh.ufpr.br/producoes.html), e também saber das últimas novidades e publicações mais recentes!
+Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa [equipe](http://www.lgmh.ufpr.br/equipe.html#), [linhas de pesquisa], [linhas de pesquisa](http://www.lgmh.ufpr.br/pesquisa.html), [produção acadêmica] (http://www.lgmh.ufpr.br/producoes.html), e também saber das últimas novidades e publicações mais recentes!
 
 
 
