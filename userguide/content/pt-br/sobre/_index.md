@@ -96,32 +96,31 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 &nbsp;
 
-<b>Profa. Dra. Angelica Boldt</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde XXX. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>. Angelica Beate Winter Boldt é bolsista produtividade de pesquisa 2 e professora adjunta de Genética da Universidade Federal do Paraná (UFPR) desde 2013, casada há 25 anos e mãe de três filhos maravilhosos!, é licenciada em Ciências Biológicas (1994) e mestre em Genética (2000) pela UFPR, doutora em Genética Humana pela Universidade de Tuebingen, Alemanha (2006). Foi pesquisadora post-doc no Laboratório de Imunopatologia Molecular/ HC-UFPR de 2007 ao início de 2013. Tem maior experiência em Imunogenética (genes do sistema complemento) e Genética epidemiológica de doencas complexas (infecciosas, autoimunes, neurológicas, câncer) em populações isoladas. Por meio de análises genômicas e epidemiológicas, pretende identificar variantes genéticas e epigenéticas/comportamentais moduladoras de predisposição a estas doenças, de modo a orientar a trazer prevenção a famílias e comunidades afetadas.
+<b>Profa. Dra. Angelica Beate Winter Boldt</b> é bolsista de produtividade em pesquisa do CNPq nível 2 e atua como professora associada no <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 2013. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>. Casada há 25 anos e mãe de três filhos maravilhosos! Também tem formação em música pela Escola de Música e Belas Artes do Paraná (EMBAP) para flauta doce e flauta transversal.
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
-<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
-<li style="text-align: left">Fungos endofíticos</li>
-<li style="text-align: left">Controle Biológico</li>
-<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
+<li style="text-align: left">Epigenética</li>
+<li style="text-align: left">Imunogenética - genes do sistema complemento</li>
+<li style="text-align: left">Genética epidemiológica de doenças complexas</li>
+<li style="text-align: left">Genética de populações​</li>
+
 </ul>
 
 <strong>Formação</strong>
 <p>
 <ul>
-<li>Graduação em Ciências Biológicas - Universidade Federal do Mato Grosso do Sul (UFMS) (1991)</li>
-<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (1995)</li>
-<li>Doutorado em Agronomia (Genética e Melhoramento de Plantas) - Universidade de São Paulo (ESAQL/USP) (1999)</li>
+<li>Graduação em Ciências Biológicas (Licenciatura)- Universidade Federal do Paraná (UFPR) (1994)</li>
+<li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2000)</li>
+<li>Doutorado em Genética Humana - Universidade de Tuebingen, Alemanha (2006)​</li>
 </ul>
 <p>
 
 <strong>Pós-doutorado</strong>
 <ul>
-<li>Pós-Doutorado no Westerdijk Fungal Biodiversity Institute em Utrecht, Holanda (2009)</li>
-<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2014)</li>
+<li>Pós-doutorado na Universidade Eberhard Karl de Tübingen, (2020)</li>
+<li>Pós-doutorado na Universidade Federal do Paraná, Laboratório de Imunopatologia Molecular (UFPR/HC) (2007- 2013)</li>
 </ul>
 <p>
 
@@ -145,12 +144,13 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
+<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR). Atualmente trabalha com genética e epigenética de doenças complexas tais como neurológicas, autoimunes e infecciosas.</a>.
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
 <li style="text-align: left">Genética de doenças humanas complexas​</li>
+<li style="text-align: left">Imunogenética - genes do sistema complemento</li>
 <li style="text-align: left">Epigenética​</li>
 <li style="text-align: left">Neurogenética</li>
 <li style="text-align: left">Genética de populações</li>
@@ -167,7 +167,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <strong>Pós-doutorado</strong>
 <ul>
-<li>Pós-Doutorado em Genética na Universidade Federal do Paraná</li>
+<li>Pós-Doutorado em Genética na Universidade Federal do Paraná (2021)</li>
 </ul>
 <p>
 
@@ -195,7 +195,9 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
-<li style="text-align: left">Investigação das vias de morte celular no pênfigo foliáceo</li>
+<li style="text-align: left">IGenética de doenças complexas, com ênfase no pênfigo foliáceo</li>
+<li style="text-align: left">Epigenética</li>
+<li style="text-align: left">Imunogenética - genes do sistema complemento e das vias de morte celular</li>
 </ul>
 
 <strong>Formação</strong>
@@ -224,19 +226,19 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Bruna Carla Hendges</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Cursou licenciatura em música na Escola de Música e Belas Artes do Paraná (UNESPAR), atuou como violinista em orquestras em Santa Catarina e Paraná, além de desenvolver pesquisa na área de métodos ativos de aprendizagem
+<b>Bruna Carla Hendges</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Cursou licenciatura em música na Escola de Música e Belas Artes do Paraná (UNESPAR), atuou como violinista em orquestras em Santa Catarina e Paraná, além de desenvolver pesquisa na área de métodos ativos de aprendizagem sob orientação da prof. Dra. Cristiane Otutumi. Atualmente, também é estagiária no IBMP e está concluindo sua formação como socorrista/resgatista para atuação em APH (atendimento pré-hospitalar)
+
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Métodos ativos de aprendizagem</li>
+<li style="text-align: left">Epigenética</li>
 </ul>
 
 <strong>Formação</strong>
 <p>
 <ul>
-<li>Graduação em Música (Licenciatura) - UNESPAR (20__);</li>
 <li>Acadêmica de Medicina - Universidade Federal do Paraná (UFPR);</li>
 </ul>
 <p>
@@ -255,11 +257,11 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
 
-## Acompanhe nosso trabalho junto ao Laboratório BioGeMM!
+## Acompanhe nosso trabalho junto ao Laboratório de Genética Molecular Humana (LGMH)!
 <p><p>
-O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
+O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Genética Molecular Humana, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
-Você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
+Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa [equipe](http://www.lgmh.ufpr.br/equipe.html#), [linhas de pesquisa]http://www.lgmh.ufpr.br/pesquisa.html, [produção acadêmica] (http://www.lgmh.ufpr.br/producoes.html), e também saber das últimas novidades e publicações mais recentes!
 
 
 
