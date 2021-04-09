@@ -13,11 +13,7 @@ layout: docs
 
 {{% blocks/section type="section" color="primary" %}}
 
-Independentemente do contexto, a qualidade da comunicação científica e de troca de informações é extremamente dependente da existência de um sistema robusto de nomenclatura e identificação de espécies. Seja para entender melhor a biodiversidade existente, ou para lidar com desafios gerados por patógenos de plantas, animais ou humanos, identificar uma espécie corretamente garante que a comunidade científica possa trocar conhecimento com maior confiabilidade e solucionar problemas com mais facilidade. 
-
-Nesse sentido, o uso de sequências de DNA e análises filogenéticas permite que nossa compreensão da biodiversidade e a capacidade de descobrir novas espécies cresçam continuamente e exponencialmente, gerando ganhos em diversas áreas. Entretanto, estas ferramentas também trazem diversos desafios: sem o preparo e conhecimento adequado, possíveis erros de identificação podem acontecer e gerar sérios problemas e prejuízos. 
-
-Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e Análise Filogenética" é proporcionar o treinamento adequado com as melhores práticas em todas as etapas do processo, desde a obtenção das sequências até à precisa identificação da espécie. Com um conteúdo detalhado e tutoriais para todas as etapas, nosso objetivo é explorar estes temas de forma descomplicada e fornecer à você autonomia para empregar sequências de DNA e análises filogenéticas em seus projetos!
+xxxxxxx
 
 {{% /blocks/section %}}
 
@@ -25,16 +21,14 @@ Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e
 
 <h2>Como o curso está estruturado?</h2> 
 <p><p>
-O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
+O curso conta com aulas teóricas que serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo assim como sugestões de literatura suplementar serão disponibilizados em um site exclusivo para o participantes.
 <p><p>
 
-<h2>Quais são as datas?</h2>
+<h2>Quais são as datas e horários das aulas?</h2>
 <p><p>
-Para a turma 01, as aulas ocorreram entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020, nas segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
+Serão 2 horas de aulas diariamente de segunda a sexta-feira, das ___ as___, constituíndo um curso de 40 horas / aula. O curso iniciará no dia XX de maio de 2021 e finalizará em xx de xx de 2021,  Além dos horários de aula, eventuais dúvidas sobre os conteúdos também serão resolvidas via e-mail.
 <p>
-Para a turma 02,as aulas ocorreram entre os dias 30 de Novembro de 2020 e 18 de Dezembro de 2020. nas segundas e quartas à tarde (13:30 até 17:30) e sextas pela manhã (08:30-12:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
+A previsão de abertura de outras turmas se baseará na lista de interessados. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
@@ -43,47 +37,237 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <table>
   <tr>
-   <td><strong>Tópicos Teóricos</strong>
+   <td><strong>Introdução a epigenética</strong>
    </td>
    <td>
    <ul>
 <li style="text-align: left">Introdução ao curso</li>
-<li style="text-align: left">Conteúdos básicos em taxonomia, sistemática e filogenia molecular</li>
-<li style="text-align: left">Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados</li>
-<li style="text-align: left">Identificação de espécies em microrganismos – problemas e soluções.</li>
-<li style="text-align: left">Obtenção, alinhamento e análise de seqüências; Bancos de dados.</li>
-<li style="text-align: left">Métodos de reconstrução filogenética e modelos evolutivos.</li>
-<li style="text-align: left">Princípios para escolha de sequências para compor a árvore filogenética. Como usar os Bancos de dados. </li>
-<li style="text-align: left">Construção e interpretação de árvores filogenéticas. </li>
+<li style="text-align: left">Histórico e conceitos</li>
 </ul>
    </td>
   </tr>
   <tr>
-   <td><strong>Tópicos Práticos</strong>
+   <td><strong>Nucleossomo e modificações nas histonas</strong>
    </td>
    <td>
    <ul>
-<li style="text-align: left">Obtenção de sequências consenso, análise de cromatogramas</li>
-<li style="text-align: left">Busca de sequências em bancos de dados, alinhamento e edição de alinhamentos</li>
-<li style="text-align: left">Testes de modelo evolutivo</li>
-<li style="text-align: left">Construção de árvores filogenéticas em diferentes softwares</li>
-<li style="text-align: left">Alinhamento multigênico</li>
-<li style="text-align: left">Construção e interpretação de árvores filogenéticas</li>
-<li style="text-align: left">Edição e preparação das árvores filogenéticas para publicações científicas</li>
+<li style="text-align: left">Estrutura do nucleossomo</li>
+<li style="text-align: left">Etapas da condensação do DNA</li>
+<li style="text-align: left">Código das histonas</li>
+<li style="text-align: left">Imunoprecipitação de cromatina</li>
 </ul>
    </td>
   </tr>
   <tr>
-   <td><strong>CONTEÚDO EXTRA!</strong>
+   <td><strong>Escritores, apagadores e leitores do código das histonas. Variantes histônicas</strong>
    </td>
    <td>
    <ul>
-<li style="text-align: left">Depósito de sequências no GenBank</li>
-<li style="text-align: left">Depósito de alinhamentos no TreeBase</li>
+<li style="text-align: left">Mecanismos e proteínas envolvidas nas modificações das caudas histônicas</li>
+<li style="text-align: left">Variantes e suas funções</li>
+<li style="text-align: left">Papel na herança epigenética</li>
 </ul>
    </td>
   </tr>
-</table>
+  <tr>
+   <td><strong>Metilação do DNA</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Mecanismos de metilação e demetilação do DNA</li>
+<li style="text-align: left">Ilhas CpG</li>
+<li style="text-align: left">Papel na herança epigenética</li>
+<li style="text-align: left">Técnicas para investigação do metiloma</li>
+</ul>
+   </td>
+  </tr>
+   <tr>
+   <td><strong>Coordenação da metilação das histonas e do DNA</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Metilação <i>de novo</i> do DNA</li>
+<li style="text-align: left">CpGs não metiladas e H3K4</li>
+<li style="text-align: left">Demetilação de H3K36</li>
+<li style="text-align: left">Metilação de H3K9 e do DNA</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>RNAi</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Vias de RNAi</li>
+<li style="text-align: left">RNAi como intermediário no silenciamento transcricional</li>
+<li style="text-align: left">Modificações induzidas por RNAi na cromatina</li>
+<li style="text-align: left">RNASeq</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Interações cromatínicas de longa distância</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Estocagem de DNA</li>
+<li style="text-align: left">Arquitetura nuclear</li>
+<li style="text-align: left">Interações de alça e regulação gênica</li>
+<li style="text-align: left">Hi-Seq</li>
+<li style="text-align: left">UCSC Genome browser</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Sinalização metabólica a cromatina</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Enzimas e metabólitos</li>
+<li style="text-align: left">Metabolismo alterado e modificações epigenéticas</li>
+<li style="text-align: left">Nutrigenômica</li>
+<li style="text-align: left">Síndrome metabólica</li>
+</ul>
+   </td>
+  </tr>
+   <tr>
+   <td><strong>Herança epigenética</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Resgate da evolução lamarckiana: contribuição de Eva Jablonka</li>
+<li style="text-align: left">Conceitos e modos de herança</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Epigenoma circadiano e senescente</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Regulação de ativação gênica pela alternância dia - noite</li>
+<li style="text-align: left">Desregulação e associação com doenças</li>
+<li style="text-align: left">Senescência e longevidade</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Imprinting</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Sistemas de regulação epigenética em mamíferos</li>
+<li style="text-align: left">Doenças associadas a desregulação de imprinting</li>
+<li style="text-align: left">Terapia epigenética de imprinting</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Compensação de dose</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Inativação do cromossomo X</li>
+<li style="text-align: left">Propagação e manutenção do estado inativado</li>
+<li style="text-align: left">Reativação/reprogramação do cromossomo X</li>
+</ul>
+   </td>
+  </tr>
+   <tr>
+   <td><strong>Evo-Devo</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Desenvolvimento embrionário</li>
+<li style="text-align: left">Teratogênese (efeitos de drogas na gestação)</li>
+<li style="text-align: left">Desenvolvimento do sistema nervoso central</li>
+<li style="text-align: left">Desenvolvimento do sistema imune</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Indução a pluripotência</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">De células tronco a células diferenciadas e destas, a células tronco</li>
+<li style="text-align: left">Modificações epigenéticas do ciclo de vida mamífero</li>
+<li style="text-align: left">Mecanismos regulando células germinativas</li>
+<li style="text-align: left">Do ovócito ao embrião</li>
+</ul>
+   </td>
+  </tr>
+   <tr>
+   <td><strong>Epigenética populacional</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Movimentos migratórios</li>
+<li style="text-align: left">Padrões de acasalamento sexual</li>
+<li style="text-align: left">Cultura, hierarquia social e expressão gênica</li>
+<li style="text-align: left">Eventos históricos e suas consequências a longo prazo</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Relações interespecíficas</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Parasita-hospedeiro</li>
+<li style="text-align: left">Microbiota animal</li>
+<li style="text-align: left">Relação planta-bactérias fixadoras de N2</li>
+</ul>
+   </td>
+  </tr>
+   <tr>
+   <td><strong>Stress na vida precoce - pré e pós - fertilização</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Eixo HPA</li>
+<li style="text-align: left">Estudos de gêmeos</li>
+<li style="text-align: left">Stress pós-traumático (PTSD)</li>
+<li style="text-align: left">Marcadores epigenéticos da propensão geracional a doenças crônicas: autoimunes, psiquiátricas, inflamatórias</li>
+</ul>
+   </td>
+  </tr>
+    <tr>
+   <td><strong>Insultos ambientais com efeitos transgeracionais</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Efeitos da exposição a pesticidas / drogas</li>
+<li style="text-align: left">Efeito da fome / carência nutricional</li>
+<li style="text-align: left">Efeito do stress</li>
+<li style="text-align: left">Efeitos de parasitas / vírus</li>
+</ul>
+   </td>
+  </tr>
+    <tr>
+   <td><strong>Reversibilidade de alterações epigenéticas I</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Drogas e coadjuvantes</li>
+<li style="text-align: left">Dieta e jejum</li>
+<li style="text-align: left">Exercícios físicos</li>
+</ul>
+   </td>
+  </tr>
+      <tr>
+   <td><strong>Reversibilidade de alterações epigenéticas II</strong>
+   </td>
+   <td>
+   <ul>
+<li style="text-align: left">Interações sociais</li>
+<li style="text-align: left">Meditação, espiritualidade e terapias cognitivo-comportamentais</li>
+<li style="text-align: left">Música</li>
+<li style="text-align: left">Considerações finais</li>
+</ul>
+   </td>
+  </tr>
+  </table>
 <p><p>
 <h2>Quem somos nós?</h2>
 <p>
@@ -261,7 +445,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <p><p>
 O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Genética Molecular Humana, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
-Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa [equipe](http://www.lgmh.ufpr.br/equipe.html#), [linhas de pesquisa], [linhas de pesquisa](http://www.lgmh.ufpr.br/pesquisa.html), [produção acadêmica] (http://www.lgmh.ufpr.br/producoes.html), e também saber das últimas novidades e publicações mais recentes!
+Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa equipe, linhas de pesquisa e produção acadêmica.
 
 
 
