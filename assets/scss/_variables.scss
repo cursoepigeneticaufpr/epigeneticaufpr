@@ -17,7 +17,7 @@ $td-enable-google-fonts: true !default;
 
 // Theme colors
 
-$primary: #025C59 !default;
+$primary: #359597 !default;
 $primary-light: lighten($primary, 90%) !default;
 $secondary: #309EA7 !default;
 $success: #43e6cd !default;
@@ -27,7 +27,7 @@ $danger: #944E4D !default;
 $white: #fff !default;
 $light: #E7EDEA !default;
 
-$dark: #025C59 !default;
+$dark: #359597 !default;
 $blue: #72A1E5 !default;
 $orange: #94624D !default;
 $gray-100: #f8f9fa !default;
@@ -41,7 +41,7 @@ $gray-800: #333 !default;
 $gray-900: #222 !default;
 $black: #000 !default;
 
-$code-color: darken($secondary, 40%) !default;
+$code-color: darken($secondary, 50%) !default;
 
 // UI element colors
 
