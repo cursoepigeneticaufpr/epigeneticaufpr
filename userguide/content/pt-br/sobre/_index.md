@@ -21,14 +21,14 @@ xxxxxxx
 
 <h2>Como o curso está estruturado?</h2> 
 <p><p>
-O curso conta com aulas teóricas que serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo assim como sugestões de literatura suplementar serão disponibilizados em um site exclusivo para o participantes.
+O curso conta com aulas teóricas que serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. As aulas gravadas, assim como sugestões de literatura suplementar serão disponibilizados em um site exclusivo para o participantes.
 <p><p>
 
 <h2>Quais são as datas e horários das aulas?</h2>
 <p><p>
-Serão 2 horas de aulas diariamente de segunda a sexta-feira, das ___ as___, constituíndo um curso de 40 horas / aula. O curso iniciará no dia XX de maio de 2021 e finalizará em xx de xx de 2021,  Além dos horários de aula, eventuais dúvidas sobre os conteúdos também serão resolvidas via e-mail.
+As aulas ocorrerão nas segundas, terças e quinta-feiras, das 19 às 21 horas, e nos sábados das 8 às 12 horas, totalizando 40 horas/aulas em um mês. O curso iniciará no dia 31 de maio de 2021. Além dos horários de aula, eventuais dúvidas sobre os conteúdos também serão resolvidas via e-mail.
 <p>
-A previsão de abertura de outras turmas se baseará na lista de interessados. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
+A previsão de abertura de outras turmas se baseará na lista de interessados. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/4v5EPhhvjM1mgibe6">aqui</a> para se cadastrar na nossa lista de espera.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
