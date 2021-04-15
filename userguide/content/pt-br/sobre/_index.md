@@ -37,9 +37,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 
 <table width="100%">
   <tr>
-   <td width="575"><strong>Introdução a epigenética</strong>
+   <td width="570"><strong>Introdução a epigenética</strong>
    </td>
-   <td width="575">
+   <td width="570">
    <ul>
 <li style="text-align: left">Introdução ao curso</li>
 <li style="text-align: left">Histórico e conceitos</li>
