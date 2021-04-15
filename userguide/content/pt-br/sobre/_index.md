@@ -37,9 +37,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 
 <table>
   <tr>
-   <td><strong>Introdução a epigenética</strong>
+   <td width="50%"><strong>Introdução a epigenética</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Introdução ao curso</li>
 <li style="text-align: left">Histórico e conceitos</li>
@@ -49,14 +49,14 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
  </table>
   <table>
  <tr>
- <td><strong>Bloco 1: Mecanismos Epigenéticos</strong>
+ <td width="30%" bgcolor="#ffffff"><strong>Bloco 1: Mecanismos Epigenéticos</strong>
    </td>
  </table>
    <table>
   <tr>
-   <td><strong>Nucleossomo e modificações nas histonas</strong>
+   <td width="50%"><strong>Nucleossomo e modificações nas histonas</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Estrutura do nucleossomo</li>
 <li style="text-align: left">Etapas da condensação do DNA</li>
@@ -66,9 +66,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Escritores, apagadores e leitores do código das histonas. Variantes histônicas</strong>
+   <td width="50%"><strong>Escritores, apagadores e leitores do código das histonas. Variantes histônicas</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Mecanismos e proteínas envolvidas nas modificações das caudas histônicas</li>
 <li style="text-align: left">Variantes e suas funções</li>
@@ -77,9 +77,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Metilação do DNA</strong>
+   <td width="50%"><strong>Metilação do DNA</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Mecanismos de metilação e demetilação do DNA</li>
 <li style="text-align: left">Ilhas CpG</li>
@@ -89,9 +89,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
    <tr>
-   <td><strong>Coordenação da metilação das histonas e do DNA</strong>
+   <td width="50%"><strong>Coordenação da metilação das histonas e do DNA</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Metilação <i>de novo</i> do DNA</li>
 <li style="text-align: left">CpGs não metiladas e H3K4</li>
@@ -101,9 +101,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>RNAi</strong>
+   <td width="50%"><strong>RNAi</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Vias de RNAi</li>
 <li style="text-align: left">RNAi como intermediário no silenciamento transcricional</li>
@@ -113,9 +113,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Interações cromatínicas de longa distância</strong>
+   <td width="50%"><strong>Interações cromatínicas de longa distância</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Estocagem de DNA</li>
 <li style="text-align: left">Arquitetura nuclear</li>
@@ -126,9 +126,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Sinalização metabólica a cromatina</strong>
+   <td width="50%"><strong>Sinalização metabólica a cromatina</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Enzimas e metabólitos</li>
 <li style="text-align: left">Metabolismo alterado e modificações epigenéticas</li>
@@ -141,14 +141,14 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
   
   <table>
  <tr>
- <td><strong>Bloco 2: Herança, Evolução e Epigenética</strong>
+ <td width="30%" bgcolor="#ffffff"><strong>Bloco 2: Herança, Evolução e Epigenética</strong>
    </td>
  </table>
  <table>
    <tr>
-   <td><strong>Herança epigenética</strong>
+   <td width="50%"><strong>Herança epigenética</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Resgate da evolução lamarckiana: contribuição de Eva Jablonka</li>
 <li style="text-align: left">Conceitos e modos de herança</li>
@@ -156,9 +156,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Epigenoma circadiano e senescente</strong>
+   <td width="50%"><strong>Epigenoma circadiano e senescente</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Regulação de ativação gênica pela alternância dia - noite</li>
 <li style="text-align: left">Desregulação e associação com doenças</li>
@@ -167,9 +167,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Imprinting</strong>
+   <td width="50%"><strong>Imprinting</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Sistemas de regulação epigenética em mamíferos</li>
 <li style="text-align: left">Doenças associadas a desregulação de imprinting</li>
@@ -178,9 +178,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Compensação de dose</strong>
+   <td width="50%"><strong>Compensação de dose</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Inativação do cromossomo X</li>
 <li style="text-align: left">Propagação e manutenção do estado inativado</li>
@@ -189,9 +189,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
    <tr>
-   <td><strong>Evo-Devo</strong>
+   <td width="50%"><strong>Evo-Devo</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Desenvolvimento embrionário</li>
 <li style="text-align: left">Teratogênese (efeitos de drogas na gestação)</li>
@@ -201,9 +201,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Indução a pluripotência</strong>
+   <td width="50%"><strong>Indução a pluripotência</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">De células tronco a células diferenciadas e destas, a células tronco</li>
 <li style="text-align: left">Modificações epigenéticas do ciclo de vida mamífero</li>
@@ -213,9 +213,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
    <tr>
-   <td><strong>Epigenética populacional</strong>
+   <td width="50%"><strong>Epigenética populacional</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Movimentos migratórios</li>
 <li style="text-align: left">Padrões de acasalamento sexual</li>
@@ -225,9 +225,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
   <tr>
-   <td><strong>Relações interespecíficas</strong>
+   <td width="50%"><strong>Relações interespecíficas</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Parasita-hospedeiro</li>
 <li style="text-align: left">Microbiota animal</li>
@@ -236,9 +236,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
    <tr>
-   <td><strong>Stress na vida precoce - pré e pós - fertilização</strong>
+   <td width="50%"><strong>Stress na vida precoce - pré e pós - fertilização</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Eixo HPA</li>
 <li style="text-align: left">Estudos de gêmeos</li>
@@ -248,9 +248,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
     <tr>
-   <td><strong>Insultos ambientais com efeitos transgeracionais</strong>
+   <td width="50%"><strong>Insultos ambientais com efeitos transgeracionais</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Efeitos da exposição a pesticidas / drogas</li>
 <li style="text-align: left">Efeito da fome / carência nutricional</li>
@@ -260,9 +260,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
     <tr>
-   <td><strong>Reversibilidade de alterações epigenéticas I</strong>
+   <td width="50%"><strong>Reversibilidade de alterações epigenéticas I</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Drogas e coadjuvantes</li>
 <li style="text-align: left">Dieta e jejum</li>
@@ -271,9 +271,9 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    </td>
   </tr>
       <tr>
-   <td><strong>Reversibilidade de alterações epigenéticas II</strong>
+   <td width="50%"><strong>Reversibilidade de alterações epigenéticas II</strong>
    </td>
-   <td>
+   <td width="50%">
    <ul>
 <li style="text-align: left">Interações sociais</li>
 <li style="text-align: left">Meditação, espiritualidade e terapias cognitivo-comportamentais</li>
