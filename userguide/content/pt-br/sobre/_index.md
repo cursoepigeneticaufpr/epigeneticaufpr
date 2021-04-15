@@ -53,7 +53,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
  </table>
   <table>
  <tr>
- <td width="30%" bgcolor="#ffffff"><strong>Bloco 1: Mecanismos Epigenéticos</strong>
+ <td width="30%" bgcolor="#ffffff"><strong>BLOCO 1: MECANISMOS EPIGENÉTICOS</strong>
    </td>
  </table>
    <table width="100%">
@@ -145,7 +145,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
   
   <table>
  <tr>
- <td width="30%" bgcolor="#ffffff"><strong>Bloco 2: Herança, Evolução e Epigenética</strong>
+ <td width="30%" bgcolor="#ffffff"><strong>BLOCO 2: HERANÇA, EVOLUÇÃO E EPIGENÉTICA</strong>
    </td>
  </table>
  <table width="100%">
