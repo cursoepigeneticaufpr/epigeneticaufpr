@@ -45,7 +45,11 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <li style="text-align: left">Histórico e conceitos</li>
 </ul>
    </td>
-  </tr>
+   <td>
+   </td>
+   <td>
+   </td>
+    </tr>
  </table>
   <table>
  <tr>
