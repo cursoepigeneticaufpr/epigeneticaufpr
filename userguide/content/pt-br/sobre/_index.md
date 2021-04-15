@@ -35,7 +35,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <p>
 <p>
 
-<table>
+<table width="100%">
   <tr>
    <td width="50%"><strong>Introdução a epigenética</strong>
    </td>
@@ -52,7 +52,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
  <td width="30%" bgcolor="#ffffff"><strong>Bloco 1: Mecanismos Epigenéticos</strong>
    </td>
  </table>
-   <table>
+   <table width="100%">
   <tr>
    <td width="50%"><strong>Nucleossomo e modificações nas histonas</strong>
    </td>
@@ -144,7 +144,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
  <td width="30%" bgcolor="#ffffff"><strong>Bloco 2: Herança, Evolução e Epigenética</strong>
    </td>
  </table>
- <table>
+ <table width="100%">
    <tr>
    <td width="50%"><strong>Herança epigenética</strong>
    </td>
