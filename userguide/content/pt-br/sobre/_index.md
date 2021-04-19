@@ -403,7 +403,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
 <ul>
-<li style="text-align: left">IGenética de doenças complexas, com ênfase no pênfigo foliáceo</li>
+<li style="text-align: left">Genética de doenças complexas, com ênfase no pênfigo foliáceo</li>
 <li style="text-align: left">Epigenética</li>
 <li style="text-align: left">Imunogenética - genes do sistema complemento e das vias de morte celular</li>
 </ul>
