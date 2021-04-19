@@ -38,7 +38,7 @@ Se você participar de 75% ou mais das atividades, receberá um certificado de c
 ## Inscrições
 <p><p>
 <b>Como posso me inscrever?</b><p>
-As inscrições irão abrir no dia 01/05/2021! 
+As inscrições abrirão no dia 01/05/2021! 
 <p><p>
 
 <b>Há previsões de turmas futuras após a turma 02?</b><p>
