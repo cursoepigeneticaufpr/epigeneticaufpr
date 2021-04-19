@@ -11,7 +11,7 @@ layout: docs
 
 {{% /blocks/cover %}}
 
-{{% blocks/section type="section" color="primary" %}}
+{{% blocks/lead color="primary" %}}
 
 A Epigenética é um ramo relativamente novo da ciência, cujas descobertas fascinantes têm impactado diversas áreas da Biologia, Medicina, Psicologia e Ciências Sociais, desde a virada do presente século. Apesar da sua grande relevância para a compreensão de padrões de comportamento e susceptibilidade a doenças, a compilação da literatura científica e exploração do conteúdo depositado em bancos de dados, ainda é muito incipiente. Logo, não existe um único livro didático voltado à graduação, que trata essencialmente da Epigenética, dentro do contexto interdisciplinar dos diversos conhecimentos impactados por esta ciência. 
 <p>
@@ -19,8 +19,8 @@ Este curso vem suprir parcialmente essa lacuna, ao ampliar e consolidar o conhec
 <p>
 Embora coordenado por pesquisadores da área de Genética, este curso é fruto do esforço e troca de ideias com especialistas de outras áreas, como Psicologia, Nutrição, Educação Física, Medicina e Antropologia, Biologia Celular, Fisio- e Farmacologia. Desafiamos você a realizar um curso inovador e que faz repensar conceitos antigos, ampliando o leque de respostas possíveis, a diferentes problemáticas de cada uma dessas áreas.
 
+{{% /blocks/lead %}}
 
-{{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
 
