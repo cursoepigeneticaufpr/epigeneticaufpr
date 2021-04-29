@@ -32,6 +32,10 @@ As aulas serão gravadas e disponibilizadas posteriormente, então poderão ser 
 Se você participar de 75% ou mais das atividades, receberá um certificado de conclusão ao final do curso, com a carga horária de 40 horas.
 <p><p>
 
+<b>Se eu não puder participar das aulas ao vivo, eu ganharei certificado mesmo assim?</b><p>
+Sim. Contanto que você assista ao menos 75 % do curso (ao vivo ou/e aulas gravados). Para isso, você deverá preencher uma lista. 
+<p><p>
+
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
