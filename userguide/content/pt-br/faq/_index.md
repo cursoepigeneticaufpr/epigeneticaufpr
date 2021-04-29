@@ -36,6 +36,18 @@ Se você participar de 75% ou mais das atividades, receberá um certificado de c
 Sim. Contanto que você assista ao menos 75 % do curso (ao vivo ou/e aulas gravados). Para isso, você deverá preencher uma lista. 
 <p><p>
 
+<b>Eu preciso enviar meu comprovante de categoria de inscrição no ato da inscrição?</b><p>
+Sim. Para a categoria "Profissional externo" não é necessário enviar comprovante. 
+<p><p>
+
+<b>Eu realizei minha inscrição no final de semana, quanto tempo eu tenho para ralizar o pagamento?</b><p>
+Você tem dois dias úteis para realizar o pagamento. 
+<p><p>
+
+<b>O que acontece se eu não ralizar o pagamento em 2 dias úteis?</b><p>
+A vaga será direcionada para um aluno da lista de espera. 
+<p><p>
+
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
