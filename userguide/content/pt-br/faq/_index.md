@@ -44,7 +44,7 @@ Sim. Para a categoria "Profissional externo" não é necessário enviar comprova
 Você tem dois dias úteis para realizar o pagamento. 
 <p><p>
 
-<b>O que acontece se eu não ralizar o pagamento em dois dias úteis?</b><p>
+<b>O que acontece se eu não realizar o pagamento em dois dias úteis?</b><p>
 A vaga será direcionada para um aluno da lista de espera. 
 <p><p>
 
