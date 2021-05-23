@@ -285,7 +285,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
    <td width="575">
    <ul>
 <li style="text-align: left">Interações sociais</li>
-<li style="text-align: left">Meditação, espiritualidade e terapias cognitivo-comportamentais</li>
+<li style="text-align: left">Análise do comportamento</li>
 <li style="text-align: left">Música</li>
 <li style="text-align: left">Considerações finais</li>
 </ul>
