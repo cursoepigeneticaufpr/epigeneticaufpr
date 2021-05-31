@@ -53,11 +53,6 @@ anchor = "smart"
 
 # Additional menu items
   [[menu.main]]
-    name = "Laboratório LGMH"
-    weight = 50
-    url = "http://www.lgmh.ufpr.br/index.html"
-	
-[[menu.main]]
     name = "PPG - Genética"
     weight = 60
     url = "https://www.bio.ufpr.br/portal/ppggenetica/"
