@@ -580,9 +580,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
 
-O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Genética Molecular Humana, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
-
-Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa equipe, linhas de pesquisa e produção acadêmica.
+O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
 
 
