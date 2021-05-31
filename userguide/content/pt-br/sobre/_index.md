@@ -437,12 +437,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <b>Bruna Carla Hendges</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Cursou licenciatura em música na Escola de Música e Belas Artes do Paraná (UNESPAR), atuou como violinista em orquestras em Santa Catarina e Paraná, além de desenvolver pesquisa na área de métodos ativos de aprendizagem sob orientação da prof. Dra. Cristiane Otutumi. Atualmente, também é estagiária no IBMP e está concluindo sua formação como socorrista/resgatista para atuação em APH (atendimento pré-hospitalar)
 
 <p><p>
-<p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
-
-<ul>
-<li style="text-align: left">Métodos ativos de aprendizagem</li>
-<li style="text-align: left">Epigenética</li>
-</ul>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
 
 <strong>Formação</strong>
 <p>
@@ -462,11 +457,129 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Leonardo Müller Rodrigues</b> é acadêmico do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Atualmente, também é Diretor Local do Comitê de Intercâmbio Internacional de Pesquisa da IFMSA Brazil UFPR e analista do NUPEC UFPR.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmico de Medicina - Universidade Federal do Paraná (UFPR);</li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/1131677988461848 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Leonardo.jpeg" alt="Foto de Perfil de Leonardo" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Gabriele Brito de Sena</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmica de Medicina - Universidade Federal do Paraná (UFPR);</li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/4025147887416313 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Gabriele.jpeg" alt="Foto de Perfil de Foto_Gabriele" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Jonas Gabriel Costa dos Santos</b> é acadêmico do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmico de Medicina - Universidade Federal do Paraná (UFPR);</li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/0520941612970826 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Jonas.jpeg" alt="Foto de Perfil de Foto_Jonas" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Pedro Henrique Barato Plocharski</b> é acadêmico do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmico de Medicina - Universidade Federal do Paraná (UFPR);</li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/0259499194151690 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Pedro.jpeg" alt="Foto de Perfil de Foto_Pedro" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
 
-## Acompanhe nosso trabalho junto ao Laboratório de Genética Molecular Humana (LGMH)!
-<p><p>
 O curso de Epigenética Inter e Transgeracional é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Genética Molecular Humana, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
 
 Você pode visitar o site do [LGMH](http://www.lgmh.ufpr.br/index.html) para conhecer melhor a nossa equipe, linhas de pesquisa e produção acadêmica.
