@@ -352,7 +352,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 
 <p><p>
 
-<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no <a href="http://www.lgmh.ufpr.br/index.html"> Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Atualmente trabalha com genética e epigenética de doenças complexas tais como neurológicas, autoimunes e infecciosas.
+<b>Dra. Gabriela Canalli Kretzschmar</b> é pesquisadora pós-doc no Laboratório de Genética Molecular Humana (LGMH)</a> na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Atualmente trabalha com genética e epigenética de doenças complexas tais como neurológicas, autoimunes e infecciosas.
 <p><p>
 <p style="text-align: left"><b>Atua nas principais linhas de pesquisa:</b></p>
 
@@ -576,6 +576,41 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 </tr>
 </tbody>
 </table>
+
+<table>
+<tbody>
+<tr>
+<td>
+
+<p><p>
+
+<b>Giovanna Mahon Mean</b> é acadêmica do curso de Medicina na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. Atualmente, também é Diretora Local do Comitê de Educação Médica da IFMSA Brazil UFPR.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmica de Medicina - Universidade Federal do Paraná (UFPR);</li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/7163555578762524 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Gabriele.jpeg" alt="Foto de Perfil de Foto_Gabriele" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
 
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
