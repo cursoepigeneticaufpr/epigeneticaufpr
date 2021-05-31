@@ -602,7 +602,7 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <p>
 
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Gabriele.jpeg" alt="Foto de Perfil de Foto_Gabriele" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Giovanna.jpg" alt="Foto de Perfil de Foto_Giovanna" width="310"/></td>
 </tr>
 </tbody>
 </table>
