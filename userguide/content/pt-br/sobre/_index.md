@@ -612,6 +612,38 @@ A previsão de abertura de outras turmas se baseará na lista de interessados. P
 <tr>
 <td>
 
+<p><p>
+
+<b>Andrey Lucas Dias Barros</b> é acadêmico do curso de Engenharia de Bioprocessos e Biotecnologia na <a href="https://www.ufpr.br/portalufpr/"> Universidade Federal do Paraná (UFPR)</a>. É monitor de seu curso. Realizou iniciação científica e voluntariado acadêmico no Laboratório de Genética Molecular Humana e atualmente está no Laboratório de Fixação Biológica do Nitrogênio. Também é voluntário de organizações, como Nordeste Nerd e AFS Curitiba.
+
+<p><p>
+<p style="text-align: left"><b>Participa da equipe de apoio</b></p>
+
+<strong>Formação</strong>
+<p>
+<ul>
+<li>Acadêmico de Engenharia de Bioprocessos e Biotecnologia na Universidade Federal do Paraná (UFPR).</li>
+<li>Ensino médio técnico integrado em Informática para Internet no IFRN.</li>
+<li>Técnico em Redes de Computadores no IMD-UFRN.</li>
+<li>Intercambista na Skyline High School/MI </li>
+</ul>
+<p>
+
+<strong><a href="http://lattes.cnpq.br/3498282811647724 "> Currículo Lattes</a></strong>
+<ul>
+</ul>
+<p>
+
+</td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/Andrei.jpg" alt="Foto de Perfil de Foto_Andrey" width="310"/></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td>
 {{% /blocks/section %}}
 {{% blocks/section type="section" color="primary" %}}
 
