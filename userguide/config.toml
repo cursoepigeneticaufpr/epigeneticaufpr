@@ -91,7 +91,7 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-copyright = "LGMH - Laboratório de Genética (UFPR)."
+copyright = "Departamento de genética - (UFPR)."
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
